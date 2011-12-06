@@ -3,6 +3,8 @@ package bastanteo;
 import java.util.ArrayList;
 import java.util.List;
 
+//esto es una tercera prueba - omar
+
 public class AdmClientes {
 
 	//1ero. defino mi lista de un tipo dado
