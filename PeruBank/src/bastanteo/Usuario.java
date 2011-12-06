@@ -44,7 +44,7 @@ public class Usuario {
 	@Override
 	public String toString() {
 		
-		return ctaUsuario + "," + password ;
+		return ctaUsuario + "," + password + "a" ;
 	}
 	
 }
